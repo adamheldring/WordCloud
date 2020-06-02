@@ -49,15 +49,15 @@ Open your browser and navigate to:
 ## Project structure
 
 ### Backend
-– Very straightforward with all the relevant code in the server.js file. 
+- Very straightforward with all the relevant code in the server.js file. 
 
 ### Frontend
 
-– The top folder is mainly scaffolding while all the good stuff is located in the **_src_**-folder. 
+- The top folder is mainly scaffolding while all the good stuff is located in the **_src_**-folder. 
 
 #### Styling
 
-– The frontend uses CSS-preprocessor SASS. Some basic global styling as well as a few classes shared by several components can be found in the top level style.scss file. The main part of the styling however, exists in local scss-modules located in the relevant component folders.
+- The frontend uses CSS-preprocessor SASS. Some basic global styling as well as a few classes shared by several components can be found in the top level style.scss file. The main part of the styling however, exists in local scss-modules located in the relevant component folders.
 
 ## Built With :hammer:
 
